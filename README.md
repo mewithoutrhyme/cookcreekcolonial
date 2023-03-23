@@ -7,7 +7,7 @@ Cook Creek Colonial is a small business website highlighting a rental property. 
 
 Project by Tammy Lewis: https://github.com/mewithoutrhyme
 
-## Technologies Used
+## Languages Used
 
 HTML, CSS, JavaScript
 
