@@ -11,3 +11,6 @@ Project by Tammy Lewis: https://github.com/mewithoutrhyme
 
 HTML, CSS, JavaScript
 
+## Notes
+
+Working on updating the responsiveness of the site. (03.24.2023)
