@@ -7,15 +7,18 @@ Cook Creek Colonial is a small business website highlighting a rental property. 
 
 Project by Tammy Lewis: https://github.com/mewithoutrhyme
 
+
 ## Languages Used
 
 HTML, CSS, JavaScript
 
 ## Working Notes
 
+To note: the copy and images are mostly placeholders and will be updated on an ongoing basis until launch date. 
+
 Working on updating the responsiveness of the site. (03.24.2023) - complete
 
-* Responsiveness completed. Now, when uploaded to site/server, there are load issues with flickity images and box resizing. I remember reading something about code to hold box sizing while images continue to load. Have to look into fixing that and also the js for removing the advance arrows on flickity. 
+* Responsiveness completed. Now, when uploaded to site/server, there are load issues with flickity images and box resizing. I remember reading something about code to hold box sizing while images continue to load. Have to look into fixing that and also the js for removing the advance arrows on flickity. (03.25.2023) - complete
 
 * Other adjustements desired include 
 

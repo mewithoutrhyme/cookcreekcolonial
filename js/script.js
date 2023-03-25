@@ -1,6 +1,6 @@
 // cook creek main javascript 
 
-// toggle the nav
+// toggle the nav on smaller screens
 
 document.addEventListener('DOMContentLoaded', function(event) {
 
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
 });
 
-// fade and scroll items into view while scrolling
+// fade and slide items into view while scrolling
 
 const faders = document.querySelectorAll(".fade-in");
 const sliders = document.querySelectorAll(".slide-in");
@@ -47,11 +47,9 @@ const appearOnScroll = new IntersectionObserver(function(
   });
 
  
-// let's make the image gallery have a featured image - users choice
+// clickable featured gallery image on gallery - the house page
 
-// TO-DO - make it so that each gallery functions seperatly  - can I loop this somehow or do I have to create a different loop for each gallery?
 
-// let gallery = document.querySelectorAll(".img-gallery");
 
       let thumbs = document.querySelectorAll(".thumbs-image-row > a");
 
@@ -66,6 +64,6 @@ const appearOnScroll = new IntersectionObserver(function(
           });
       }
   
-// can we update the year for copyright? yes we can!
+// update the copyright each year automatically
 
       document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()));
