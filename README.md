@@ -18,6 +18,8 @@ To note: the copy and images are mostly placeholders and will be updated on an o
 
 Working on updating the responsiveness of the site. (03.24.2023) - complete
 
+        * 03.26.2023 - noticed issues last night on larger/desktop screens (been working on laptop). Looked at my code and feel that I must not be using max-content correctly in my media queries. Will have to work on revising this in the next day or so.  
+
 * Responsiveness completed. Now, when uploaded to site/server, there are load issues with flickity images and box resizing. I remember reading something about code to hold box sizing while images continue to load. Have to look into fixing that and also the js for removing the advance arrows on flickity. (03.25.2023) - complete
 
 * Other adjustements desired include 
